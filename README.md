@@ -1,14 +1,17 @@
-# Exercicio_CNH
-Exercicio para identificar se o usuário pode receber a Carteira Nacional de Habilitação
+# exercicio_cnh_22
+Exercicio para identificar se o usuário pode receber a Carteira Nacional de Habilitação.
+------------------------------------------------------
+# ALGORITMO DO EXERCÍCIO
 
-ALGORITMO DO EXERCÍCIO
-________________________________________________________________________________________
+Inicio
 
-INICIO
+     Se aprovado no Exame Psicotecnico
+     Se aprovado no Exame de Legislacao
+     Se aprovado no Exame de Direcao
+     Aprovado para Solicitar a CNH
+     Se nao Ivalida a Solicitacao para retirar a CNH
 
-![image](https://user-images.githubusercontent.com/103973489/169931313-e2e940bd-7110-4a3f-8cc2-544b1e186118.png)
-
-FIM
-___________________________________________________________________________________________
+Fim
+------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/103973489/169931131-9e957826-e062-46cd-ae16-837512633f62.png)
